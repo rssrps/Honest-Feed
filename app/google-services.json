@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "238573636301",
+    "firebase_url": "https://honestapp-988b8.firebaseio.com",
+    "project_id": "honestapp-988b8",
+    "storage_bucket": "honestapp-988b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238573636301:android:c20dfba0a8289207",
+        "android_client_info": {
+          "package_name": "raman.in.justreact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238573636301-061olrugtja9j4jqpscavr9bpude1dtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "raman.in.justreact",
+            "certificate_hash": "02092e01e1114c18e6aaaa4bd4066260e2576d15"
+          }
+        },
+        {
+          "client_id": "238573636301-3p1mtdseain2gfh0b2sn1vatuk9mjeqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6O6jDZEUplkjo15bHjbS077YpI66SY_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238573636301-3p1mtdseain2gfh0b2sn1vatuk9mjeqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
